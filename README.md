@@ -24,3 +24,12 @@ Practicar y automatizar los cálculos de subnetting vistos en el curso, para ten
 ---
 
 Hecho mientras aprendo Ethical Hacking 🛡️
+
+<img width="924" height="765" alt="Captura de pantalla 2026-04-08 071843" src="https://github.com/user-attachments/assets/c5f63dcf-85f9-46f5-8400-c5bca3612bf9" />
+
+## Vista previa del Calculador de Subnetting
+
+![Calculadora de Subnetting en Excel](Subnetting_Calculator.png)
+
+*Ejemplo mostrando el cálculo para la red 192.168.1.0/26*
+
